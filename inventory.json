@@ -1,0 +1,47 @@
+{
+  "cars": [
+    {
+      "make": "Nissan",
+      "model": "Rogue",
+      "year": "2006",
+      "price": "8999.00",
+      "description": "This is an immaculate 2006 Nissan Rogue with only 25000 miles on it. Leather seats, power everything."
+    },
+    {
+      "make": "Hyundai",
+      "model": "Tiburon",
+      "year": "2003",
+      "price": "3999.00",
+      "description": "This is an amazingly beat down automobile that may or may not run for you, it is equiped with 'somewhat' powered windows, a working radio, and luxurious stained front passenger seat."
+    },
+    {
+      "make": "Ford",
+      "model": "F250",
+      "year": "1988",
+      "price": "2.99",
+      "description": "Please buy this vehicle, it is equiped with manually powered windows, a very loose belt, and a motor that will probably backfire but somehow still runs."
+    },
+    {
+        "make": "Nissan",
+        "model": "Sentra",
+        "year": "2013",
+        "price": "9899.00",
+        "description": "With barely 400,000 miles on the ODO, this car has only been used by the bravest of space travelers."
+    },
+    {
+        "make": "Hyundai",
+        "model": "Tiburon",
+        "year": "2003",
+        "price": "3999.00",
+        "description": "PLEASE JUST BUY A CAR!"
+    },
+    {
+        "make": "BMW",
+        "model": "325is",
+        "year": "1997",
+        "price": "2050.00",
+        "description": "Sometimes our cars appear nice, but really they're junk. Buy one and find out!"
+    }
+  ]
+}
+
